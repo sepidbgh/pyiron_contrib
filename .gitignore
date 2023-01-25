@@ -12,3 +12,8 @@ apidoc/
 test_times.dat
 notebooks/*
 !notebooks/*.ipynb
+pyiron_contrib/atomistics/stacking_fault_annni/#*
+pyiron_contrib/atomistics/stacking_fault_annni/.#*
+pyiron_contrib/atomistics/stacking_fault_annni/ANNNI*
+pyiron_contrib/atomistics/stacking_fault_annni/*~
+
